@@ -1,4 +1,5 @@
 # Carlitox
 
 Apache
-PHP o Java (voto Java porque sabemos) (No vamos a hacer CGI)
+PHP o JavaEscrit (voto Java porque sabemos) (No vamos a hacer CGI) ruby on rails :D
+
